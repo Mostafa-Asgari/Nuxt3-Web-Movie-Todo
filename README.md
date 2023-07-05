@@ -1,4 +1,9 @@
 # Nuxt 3 Minimal Starter
+* Jason-server is used in this project.* 
+ First  -> npm install (npm i npm) , 
+ Second -> npx json-server --watch data/db.json , 
+ Third  -> npm run serve
+  
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
