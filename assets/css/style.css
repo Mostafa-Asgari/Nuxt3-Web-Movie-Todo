@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* @layer base {
+  h1 {
+    @apply text-2xl;
+  }
+  h2 {
+    @apply text-xl;
+  }
+} */
+
+/* @font-face{
+    font-family: 'IRAN';
+    src: url('@/assets/fonts/Yekan.ttf');
+}
+*{
+    font-family: 'IRAN', Arial;
+} */

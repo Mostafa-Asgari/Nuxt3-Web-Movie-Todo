@@ -1,0 +1,34 @@
+{
+  "teams": [
+    {
+      "title": "Man City - پپ گواردیولا",
+      "stars": "Haaland - De Bruyne - گندوگان",
+      "id": 1,
+      "computed": true
+    },
+    {
+      "title": "استقلال ایران - جواد نکونام",
+      "stars": "وریا غفوری - روزبه چشمی - ارسلان مطهری",
+      "computed": false,
+      "id": 2
+    },
+    {
+      "title": "FC barca - xavi",
+      "stars": "lewandowsky - gundogan",
+      "computed": false,
+      "id": 3
+    },
+    {
+      "title": "ذوب آهن - محمد ربیعی",
+      "stars": "قاسم حدادی فر",
+      "computed": true,
+      "id": 4
+    },
+    {
+      "title": "محمد عباس تبار - شهرداری همدان",
+      "stars": "محمد عباس تبار - شهرداری همدان",
+      "computed": true,
+      "id": 5
+    }
+  ]
+}
