@@ -1,7 +1,10 @@
 # Nuxt 3 Minimal Starter
 در پروژه از json-server استفاده شده و مراحل اجرای پروژه به این صورت است : 
- First  -> npm install (npm i) , 
- Second -> npx json-server --watch data/db.json , 
+
+ First  -> npm install ( npm i ) ,
+ 
+ Second -> npx json-server --watch data/db.json ,
+ 
  Third  -> npm run serve
   
 
